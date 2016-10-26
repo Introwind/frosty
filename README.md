@@ -1,2 +1,1 @@
-# frosty.psd2code
-# frostyPSD
+Turn Frosty psd web theme into html/css
